@@ -61,9 +61,12 @@ y-axis and the x-axis should have labels for each number from 0 to 8. Ensure tha
   * Dystopia
   Choose a distinct color for each category and include an appropriate legend with your chart.
 3. Obtain the same stacked horizontal bar chart as in step 2 but this time instead of the top 10 countries consider all countries from the region Africa.
+
 **H.Histogram of Job Satisfaction**
+
 **I.Pairwise Scatter plots:**
 Obtain scatter plots of the Happiness Score versus each of the other variables.
+
 **J.Heatmap:**
 
 
