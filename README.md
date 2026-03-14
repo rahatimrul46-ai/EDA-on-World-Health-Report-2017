@@ -66,5 +66,4 @@ y-axis and the x-axis should have labels for each number from 0 to 8. Ensure tha
 Obtain scatter plots of the Happiness Score versus each of the other variables.
 **J.Heatmap:**
 
-I have done EDA on World Health Report 2017. create github README
 
