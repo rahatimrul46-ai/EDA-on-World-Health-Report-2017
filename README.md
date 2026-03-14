@@ -19,28 +19,33 @@ This project demonstrates data cleaning, indexing, grouping, statistical analysi
 9.List the 10 least happiest country
 
 10.Find rows with null values and delete those rows.
+
 **B.Indexing and grouping:**
 
 1. Use the column 'Region' to create a separate DataFrame containing the data points from each of the six regions: North America, Latin America, Western Europe, Eastern Europe, Asia Pacific, Africa.
 2. Compute the mean happiness score for each region and rank the regions from most happy to least happy.
 3. Compute the number of countries in each region that have a happiness score above 6.0.
+
 **C. Happiness Score Analysis:**
 
 1.Which country has the highest happiness score?
 2.Which country has the lowest happiness score?
 3.What is the average happiness score of all countries?
+
 **D.Region-Based Analysis:**
 
 1.What is the average happiness score for each region?
 2.What is the highest happiness score of each region?
 3.Which region has the highest average happiness score?
 4.How many countries belong to each region?
+
 **E.Feature-Based Analysis:**
 
 1.Which country has the highest GDP per capita?
 2.Which country has the highest social support?
 3.Which country has the highest life expectancy?
 4.Which country has the lowest freedom?
+
 **F.Correlation & Relationship:**
 
 1.What is the correlation between happiness score and GDP per capita?
@@ -48,6 +53,7 @@ This project demonstrates data cleaning, indexing, grouping, statistical analysi
 3.All correlations.
 4.Which variable has negative correlation with happiness score?
 5.Which two variables has the highest correlation with each other?
+
 **G.Bar plot of the Happiness Score**
 1. Obtain a horizontal bar plot of the Happiness Score of the top 10 countries. Your bar chart should have the names of the countries are listed vertically along the
 y-axis and the x-axis should have labels for each number from 0 to 8. Ensure that the chart has an appropriate title and labels.
